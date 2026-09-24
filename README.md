@@ -1,4 +1,4 @@
-# iTantra – Neural Transceiver for Multilingual Voice Relay over Low Bitrate Links
+# blutalk – Neural Transceiver for Multilingual Voice Relay over Low Bitrate Links
 
 [![Smart India Hackathon 2025](https://img.shields.io/badge/SIH-2025-orange.svg)](https://sih.gov.in)
 [![TEKATHON 5.0 - Spektacle](https://img.shields.io/badge/TEKATHON-5.0--Spektacle-blue.svg)](#)
